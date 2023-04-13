@@ -1,2 +1,4 @@
 # Drag-Drob-App
-using html CSS and JavaScript the user can create text note and drag it to other list and Drob it to add it to the chosen box  
+Using html ,css and javascript the user can create a note and chose which box will add to it and can change its location from coulmn to other by draging it and drob to relocate it 
+
+the live virsion https://mohamed-ramadan1.github.io/Drag-Drob-App/
